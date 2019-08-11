@@ -1,0 +1,6 @@
+---
+go_111_module: on
+go_install_packages:
+  - name: github.com/go-delve/delve/cmd/dlv
+    created_file: "{{ go_user_gopath}}/bin/dlv"
+...

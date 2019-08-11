@@ -1,0 +1,6 @@
+---
+- hosts: fedora_workstations
+  tasks:
+  - import_role:
+      name: golang
+...
