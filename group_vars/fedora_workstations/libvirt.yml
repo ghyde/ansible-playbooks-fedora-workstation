@@ -1,0 +1,4 @@
+---
+ksm_monitor_interval: 60
+ksm_sleep_msec: 50
+...
