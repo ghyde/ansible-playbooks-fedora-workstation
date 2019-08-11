@@ -3,4 +3,6 @@
   tasks:
   - import_role:
       name: golang
+  - import_role:
+      name: libvirt
 ...
