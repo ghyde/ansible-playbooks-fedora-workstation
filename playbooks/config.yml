@@ -2,7 +2,7 @@
 - hosts: fedora_workstations
   tasks:
   - import_role:
-      name: golang
+      name: ghyde.golang
   - import_role:
-      name: libvirt
+      name: ghyde.libvirt
 ...
