@@ -1,0 +1,18 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintPath": "/home/ghyde/.local/bin/pylint",
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackPath": "/home/ghyde/.local/bin/black",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "cSpell.userWords": [
+        "Ansible",
+        "Exfiltration"
+    ]
+}

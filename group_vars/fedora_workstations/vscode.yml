@@ -1,0 +1,14 @@
+---
+vs_code_extensions:
+  - bbenoist.vagrant
+  - DavidAnson.vscode-markdownlint
+  - joaompinto.asciidoctor-vscode
+  - ms-azuretools.vscode-docker
+  - ms-python.python
+  - ms-vscode.Go
+  - rust-lang.rust
+  - streetsidesoftware.code-spell-checker
+  - vscodevim.vim
+  - vscoss.vscode-ansible
+  - yzhang.markdown-all-in-one
+...

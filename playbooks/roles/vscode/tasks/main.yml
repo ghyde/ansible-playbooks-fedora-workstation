@@ -1,0 +1,19 @@
+---
+- block:
+  - name: Create VS Code config directory
+    file:
+      path: "{{ ansible_user_dir }}/.config/Code/User"
+      state: directory
+      owner: "{{ ansible_user_id }}"
+      group: "{{ ansible_user_id }}"
+      mode: "0700"
+  - name: Copy settings file
+    copy:
+      src: settings.json
+      dest: "{{ ansible_user_dir }}/.config/Code/User/settings.json"
+      owner: "{{ ansible_user_id }}"
+      group: "{{ ansible_user_id }}"
+      mode: "0600"
+  tags:
+  - vscode
+...

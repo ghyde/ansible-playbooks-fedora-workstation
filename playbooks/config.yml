@@ -7,4 +7,6 @@
       name: ghyde.libvirt
   - import_role:
       name: ghyde.tilix
+  - import_role:
+      name: vscode
 ...
