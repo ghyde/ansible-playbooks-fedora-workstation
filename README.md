@@ -1,23 +1,19 @@
-Fedora Workstation Playbooks
-============================
+# Fedora Workstation Playbooks
 
 A collection of Ansible playbooks for setting up my Fedora workstation.
 
-Requirements
-------------
+## Requirements
 
 - Fedora 28 or later
 - Ansible 2.5 or later
 
-Playbooks
----------
+## Playbooks
 
-|name|description|
-|---|---|
-|[config.yml](playbooks/config.yml)|Configure Fedora workstation|
+| name                               | description                  |
+| ---------------------------------- | ---------------------------- |
+| [config.yml](playbooks/config.yml) | Configure Fedora workstation |
 
-Usage
------
+## Usage
 
 1. Clone this Git repository and install the required roles.
 
@@ -31,10 +27,9 @@ ansible-galaxy install -r requirements.yml
 3. Run the configuration playbook.
 
 ```bash
-ansible-playbook -i inventory playbooks/config.yml
+ansible-playbook -i inventory --ask-become-pass playbooks/config.yml
 ```
 
-License
--------
+## License
 
 [MIT](LICENSE)
