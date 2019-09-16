@@ -15,4 +15,6 @@
       name: ghyde.asciidoctor
   - import_role:
       name: ghyde.containers
+  - import_role:
+      name: ghyde.wireshark
 ...

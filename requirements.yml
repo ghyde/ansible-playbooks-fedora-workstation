@@ -4,3 +4,4 @@
 - src: ghyde.libvirt
 - src: ghyde.tilix
 - src: ghyde.vscode
+- src: ghyde.wireshark
