@@ -1,3 +1,4 @@
+- src: ghyde.asciidoctor
 - src: ghyde.golang
 - src: ghyde.libvirt
 - src: ghyde.tilix

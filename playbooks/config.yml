@@ -11,4 +11,6 @@
       name: ghyde.tilix
   - import_role:
       name: vscode
+  - import_role:
+      name: ghyde.asciidoctor
 ...
