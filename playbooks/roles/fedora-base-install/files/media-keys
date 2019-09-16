@@ -1,0 +1,12 @@
+[/]
+custom-keybindings=['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/']
+
+[custom-keybindings/custom0]
+binding='<Primary><Alt>t'
+command='/usr/bin/tilix'
+name='Launch terminal'
+
+[custom-keybindings/custom1]
+binding='<Primary><Alt>b'
+command='/usr/bin/google-chrome'
+name='Launch browser'

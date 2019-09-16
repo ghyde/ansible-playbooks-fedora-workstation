@@ -1,0 +1,14 @@
+---
+- block:
+  - name: disable sshd
+    systemd:
+      name: sshd
+      state: stopped
+      enabled: no
+    become: True
+    become_user: root
+  - import_tasks: packages.yml
+  - import_tasks: gnome3.yml
+  tags:
+  - fedora
+...

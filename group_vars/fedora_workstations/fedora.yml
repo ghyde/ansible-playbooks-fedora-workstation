@@ -1,0 +1,52 @@
+---
+fedora_packages:
+  # Base system packages
+  - bash-completion
+  - dnf-plugin-system-upgrade
+  - gnome-tweak-tool
+  - htop
+  - libgnome
+  - NetworkManager-openconnect-gnome
+  - opensc
+  - tmux
+  - unzip
+  - vim
+  - vim-X11
+  - xsel
+
+  # Remote desktop tools
+  - rdesktop
+  - remmina
+  - tigervnc
+
+  # Admin tools
+  - bcc-tools
+  - ddrescue
+  - iperf3
+  - livecd-tools
+  - masscan
+  - nmap
+  - openscap-containers
+  - openscap-utils
+  - scap-security-guide
+
+  # Extra packages
+  - asciinema
+  - ImageMagick
+  - irssi
+  - jq
+  - nextcloud-client
+  - no-more-secrets
+
+fedora_python3_packages:
+  - ansible-lint
+  - black
+  - boto
+  - boto3
+  - ipython
+  - molecule
+  - pylint
+  - thefuck
+  - uncompyle6
+  - yamllint
+...

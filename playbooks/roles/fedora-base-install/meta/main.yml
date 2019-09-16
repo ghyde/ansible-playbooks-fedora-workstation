@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  role_name: fedora-base-install
+  author: Garrett Hyde
+  description: Fedora base install
+  license: MIT
+  min_ansible_version: 2.5
+  platforms:
+  - name: Fedora
+    versions:
+    - 30
+  galaxy_tags:
+  - fedora
+...

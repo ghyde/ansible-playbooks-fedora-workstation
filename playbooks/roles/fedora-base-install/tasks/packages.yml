@@ -1,0 +1,14 @@
+---
+- name: install Fedora packages
+  dnf:
+    name: "{{ fedora_packages }}"
+    state: present
+  become: True
+  become_user: root
+- name: install Python 3 packages
+  pip:
+    name: "{{ item }}"
+    extra_args: "--user"
+    executable: /usr/bin/pip3
+  loop: "{{ fedora_python3_packages|flatten(levels=1) }}"
+...
