@@ -1,0 +1,23 @@
+---
+vagrant_boxes:
+  - name: centos/7
+    provider: libvirt
+
+vagrant_plugins:
+- landrush
+- vagrant-hostmanager
+- vagrant-libvirt
+- vagrant-registration
+- vagrant-scp
+- vagrant-sshfs
+
+vagrant_plugin_dependencies:
+- gcc
+- gcc-c++
+- libvirt-devel
+- qemu
+- ruby-devel
+- rubygem-eventmachine
+- rubygem-ruby-libvirt
+- zlib-devel
+...

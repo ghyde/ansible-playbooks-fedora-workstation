@@ -6,8 +6,6 @@
   - import_role:
       name: ghyde.golang
   - import_role:
-      name: ghyde.libvirt
-  - import_role:
       name: ghyde.tilix
   - import_role:
       name: vscode
@@ -17,4 +15,6 @@
       name: ghyde.containers
   - import_role:
       name: ghyde.wireshark
+  - import_role:
+      name: ghyde.vagrant
 ...

@@ -1,7 +1,11 @@
+---
 - src: ghyde.asciidoctor
 - src: ghyde.containers
 - src: ghyde.golang
 - src: ghyde.libvirt
 - src: ghyde.tilix
+- src: ghyde.vagrant
+- src: ghyde.virtualbox
 - src: ghyde.vscode
 - src: ghyde.wireshark
+...
