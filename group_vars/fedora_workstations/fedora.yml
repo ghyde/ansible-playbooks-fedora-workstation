@@ -48,5 +48,6 @@ fedora_python3_packages:
   - pylint
   - thefuck
   - uncompyle6
+  - xkcdpass
   - yamllint
 ...
