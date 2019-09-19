@@ -3,6 +3,7 @@
 - src: ghyde.containers
 - src: ghyde.golang
 - src: ghyde.libvirt
+- src: ghyde.powershell_core
 - src: ghyde.tilix
 - src: ghyde.vagrant
 - src: ghyde.virtualbox

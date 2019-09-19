@@ -14,6 +14,8 @@
   - import_role:
       name: ghyde.containers
   - import_role:
+      name: ghyde.powershell_core
+  - import_role:
       name: ghyde.wireshark
   - import_role:
       name: ghyde.vagrant
