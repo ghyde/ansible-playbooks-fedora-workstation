@@ -17,7 +17,7 @@ fedora_packages:
   # Remote desktop tools
   - rdesktop
   - remmina
-  - tigervnc
+  - virt-viewer
 
   # Admin tools
   - bcc-tools
