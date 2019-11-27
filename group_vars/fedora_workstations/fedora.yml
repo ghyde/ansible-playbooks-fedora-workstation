@@ -37,6 +37,7 @@ fedora_packages:
   - jq
   - nextcloud-client
   - no-more-secrets
+  - p7zip
 
 fedora_python3_packages:
   - ansible-lint
