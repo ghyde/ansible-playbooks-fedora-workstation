@@ -36,6 +36,7 @@ fedora_packages:
   - ImageMagick
   - irssi
   - jq
+  - libgnome-keyring
   - nextcloud-client
   - no-more-secrets
   - p7zip
