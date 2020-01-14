@@ -32,6 +32,7 @@ fedora_packages:
 
   # Extra packages
   - asciinema
+  - awscli
   - hugo
   - ImageMagick
   - irssi
