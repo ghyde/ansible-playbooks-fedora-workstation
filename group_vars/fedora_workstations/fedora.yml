@@ -45,8 +45,6 @@ fedora_packages:
 fedora_python3_packages:
   - ansible-lint
   - black
-  - boto
-  - boto3
   - ipython
   - molecule
   - pylint
