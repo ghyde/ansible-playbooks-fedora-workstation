@@ -17,7 +17,5 @@ vagrant_plugin_dependencies:
 - libvirt-devel
 - qemu
 - ruby-devel
-- rubygem-eventmachine
-- rubygem-ruby-libvirt
 - zlib-devel
 ...
