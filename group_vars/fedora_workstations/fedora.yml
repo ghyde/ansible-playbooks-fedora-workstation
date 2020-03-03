@@ -35,6 +35,7 @@ fedora_packages:
   - awscli
   - hugo
   - ImageMagick
+  - inkscape
   - irssi
   - jq
   - libgnome-keyring
