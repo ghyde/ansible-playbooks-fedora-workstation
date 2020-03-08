@@ -42,6 +42,7 @@ fedora_packages:
   - nextcloud-client
   - no-more-secrets
   - p7zip
+  - speedtest-cli
 
 fedora_python3_packages:
   - ansible-lint
