@@ -2,6 +2,8 @@
 vagrant_boxes:
   - name: centos/7
     provider: libvirt
+  - name: centos/8
+    provider: libvirt
 
 vagrant_plugins:
 - landrush
