@@ -42,6 +42,8 @@ fedora_packages:
   - nextcloud-client
   - no-more-secrets
   - p7zip
+  - redhat-display-fonts
+  - redhat-text-fonts
   - speedtest-cli
 
 fedora_python3_packages:
