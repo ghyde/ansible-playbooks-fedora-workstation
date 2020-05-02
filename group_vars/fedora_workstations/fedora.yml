@@ -46,6 +46,18 @@ fedora_packages:
   - redhat-text-fonts
   - speedtest-cli
 
+  # Backgrounds
+  - f28-backgrounds-gnome
+  - f28-backgrounds-extras-gnome
+  - f29-backgrounds-gnome
+  - f29-backgrounds-extras-gnome
+  - f30-backgrounds-gnome
+  - f30-backgrounds-extras-gnome
+  - f31-backgrounds-gnome
+  - f31-backgrounds-extras-gnome
+  - f32-backgrounds-gnome
+  - f32-backgrounds-extras-gnome
+
 fedora_python3_packages:
   - ansible-lint
   - black
