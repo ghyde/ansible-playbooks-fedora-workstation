@@ -1,0 +1,12 @@
+---
+flatpak_apps:
+  - name: com.slack.Slack
+    remote: flathub
+  - name: com.spotify.Client
+    remote: flathub
+  - name: org.videolan.VLC
+    remote: flathub
+flatpak_repos:
+  - name: flathub
+    url: https://flathub.org/repo/flathub.flatpakrepo
+...

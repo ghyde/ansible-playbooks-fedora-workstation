@@ -1,6 +1,7 @@
 ---
 - src: ghyde.asciidoctor
 - src: ghyde.containers
+- src: ghyde.flatpak
 - src: ghyde.golang
 - src: ghyde.libvirt
 - src: ghyde.powershell_core
