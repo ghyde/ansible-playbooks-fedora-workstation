@@ -33,6 +33,7 @@ fedora_packages:
   # Extra packages
   - asciinema
   - awscli
+  - gimp
   - hugo
   - ImageMagick
   - inkscape
