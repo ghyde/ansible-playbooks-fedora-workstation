@@ -43,6 +43,7 @@ fedora_packages:
   - nextcloud-client
   - no-more-secrets
   - p7zip
+  - poetry
   - pipenv
   - redhat-display-fonts
   - redhat-text-fonts
