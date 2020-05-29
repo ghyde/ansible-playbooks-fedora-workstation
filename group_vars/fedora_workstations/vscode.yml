@@ -8,6 +8,7 @@ vs_code_extensions:
   - ms-vscode.Go
   - rust-lang.rust
   - streetsidesoftware.code-spell-checker
+  - tomoki1207.pdf
   - vscodevim.vim
   - vscoss.vscode-ansible
   - yzhang.markdown-all-in-one
