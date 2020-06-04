@@ -48,6 +48,11 @@ fedora_packages:
   - redhat-text-fonts
   - speedtest-cli
 
+  # Kata Containers
+  - kata-runtime
+  - kata-proxy
+  - kata-shim
+
   # Backgrounds
   - f28-backgrounds-gnome
   - f28-backgrounds-extras-gnome
