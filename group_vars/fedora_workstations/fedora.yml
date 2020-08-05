@@ -47,6 +47,7 @@ fedora_packages:
   - redhat-display-fonts
   - redhat-text-fonts
   - speedtest-cli
+  - youtube-dl
 
   # Kata Containers
   - kata-runtime
