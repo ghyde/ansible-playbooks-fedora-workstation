@@ -49,11 +49,6 @@ fedora_packages:
   - speedtest-cli
   - youtube-dl
 
-  # Kata Containers
-  - kata-runtime
-  - kata-proxy
-  - kata-shim
-
   # Backgrounds
   - f28-backgrounds-gnome
   - f28-backgrounds-extras-gnome
