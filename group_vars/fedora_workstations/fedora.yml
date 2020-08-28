@@ -22,6 +22,7 @@ fedora_packages:
   # Admin tools
   - bcc-tools
   - ddrescue
+  - dnf-utils
   - iperf3
   - livecd-tools
   - masscan
