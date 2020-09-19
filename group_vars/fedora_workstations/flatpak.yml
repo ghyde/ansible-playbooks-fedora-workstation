@@ -1,5 +1,7 @@
 ---
 flatpak_apps:
+  - name: com.discordapp.Discord
+    remote: flathub
   - name: com.microsoft.Teams
     remote: flathub
   - name: com.slack.Slack
