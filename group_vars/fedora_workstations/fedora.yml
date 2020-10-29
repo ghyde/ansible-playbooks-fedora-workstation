@@ -28,9 +28,12 @@ fedora_packages:
   - livecd-tools
   - masscan
   - nmap
+  - openscap
   - openscap-containers
+  - openscap-scanner
   - openscap-utils
   - scap-security-guide
+  - scap-workbench
 
   # Extra packages
   - asciinema
