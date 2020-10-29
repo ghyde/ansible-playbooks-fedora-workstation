@@ -7,6 +7,7 @@ vs_code_extensions:
   - ms-python.python
   - ms-vscode.Go
   - rust-lang.rust
+  - samuelcolvin.jinjahtml
   - streetsidesoftware.code-spell-checker
   - tomoki1207.pdf
   - vscodevim.vim
