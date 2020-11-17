@@ -49,6 +49,7 @@ fedora_packages:
   - no-more-secrets
   - p7zip
   - poetry
+  - python3-openshift
   - redhat-display-fonts
   - redhat-text-fonts
   - speedtest-cli
