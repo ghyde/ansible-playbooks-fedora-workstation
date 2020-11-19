@@ -1,5 +1,7 @@
 ---
 flatpak_apps:
+  - name: cc.arduino.arduinoide
+    remote: flathub
   - name: com.discordapp.Discord
     remote: flathub
   - name: com.microsoft.Teams
@@ -7,6 +9,8 @@ flatpak_apps:
   - name: com.slack.Slack
     remote: flathub
   - name: com.spotify.Client
+    remote: flathub
+  - name: org.fritzing.Fritzing
     remote: flathub
   - name: org.videolan.VLC
     remote: flathub
