@@ -6,6 +6,8 @@ flatpak_apps:
     remote: flathub
   - name: com.microsoft.Teams
     remote: flathub
+  - name: com.obsproject.Studio
+    remote: flathub
   - name: com.slack.Slack
     remote: flathub
   - name: com.spotify.Client
