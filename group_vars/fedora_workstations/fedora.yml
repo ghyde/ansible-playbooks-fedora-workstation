@@ -24,6 +24,7 @@ fedora_packages:
   - bcc-tools
   - ddrescue
   - dnf-utils
+  - glances
   - iperf3
   - livecd-tools
   - masscan
@@ -32,6 +33,7 @@ fedora_packages:
   - openscap-containers
   - openscap-scanner
   - openscap-utils
+  - python3-glances-api
   - scap-security-guide
   - scap-workbench
 
