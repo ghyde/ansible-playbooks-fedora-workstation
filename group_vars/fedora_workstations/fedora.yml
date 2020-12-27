@@ -36,6 +36,7 @@ fedora_packages:
   - python3-glances-api
   - scap-security-guide
   - scap-workbench
+  - WoeUSB
 
   # Extra packages
   - asciinema
