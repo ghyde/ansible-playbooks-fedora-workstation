@@ -3,6 +3,7 @@ vs_code_extensions:
   - bbenoist.vagrant
   - DavidAnson.vscode-markdownlint
   - golang.go
+  - hashicorp.terraform
   - joaompinto.asciidoctor-vscode
   - ms-azuretools.vscode-docker
   - ms-python.python
