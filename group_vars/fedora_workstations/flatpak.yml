@@ -14,6 +14,8 @@ flatpak_apps:
     remote: flathub
   - name: org.fritzing.Fritzing
     remote: flathub
+  - name: org.ghidra_sre.Ghidra
+    remote: flathub
   - name: org.videolan.VLC
     remote: flathub
 flatpak_repos:
