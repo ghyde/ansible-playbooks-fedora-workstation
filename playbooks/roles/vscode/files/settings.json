@@ -12,7 +12,26 @@
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
     "cSpell.userWords": [
-        "Ansible",
-        "Exfiltration"
-    ]
+        "ansible",
+        "exfiltration",
+        "buildah",
+        "chdir",
+        "chmod",
+        "configmap",
+        "haproxy",
+        "kubeconfig",
+        "kubernetes",
+        "lineinfile",
+        "oidc",
+        "openshift",
+        "repos",
+        "rhel",
+        "rpms",
+        "selectattr",
+        "serviceaccount",
+        "templating"
+    ],
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Visual Studio Dark"
 }
