@@ -23,11 +23,11 @@ cd ansible-playbooks-fedora-workstation
 ansible-galaxy install -r requirements.yml
 ```
 
-2. Add your hosts to the provided [inventory](inventory) file.
+2. Add your hosts to the provided [inventory](inventory/hosts) file.
 3. Run the configuration playbook.
 
 ```bash
-ansible-playbook -i inventory --ask-become-pass playbooks/config.yml
+ansible-playbook --ask-become-pass playbooks/config.yml
 ```
 
 ## License
