@@ -1,12 +1,15 @@
 ---
 vs_code_extensions:
+  - asciidoctor.asciidoctor-vscode
   - bbenoist.vagrant
   - DavidAnson.vscode-markdownlint
+  - deerawan.vscode-faker
   - golang.go
   - hashicorp.terraform
-  - joaompinto.asciidoctor-vscode
-  - ms-azuretools.vscode-docker
   - ms-python.python
+  - ms-vscode.cpptools
+  - ms-vscode.hexeditor
+  - ms-vscode.powershell
   - rust-lang.rust
   - samuelcolvin.jinjahtml
   - streetsidesoftware.code-spell-checker
