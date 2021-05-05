@@ -46,6 +46,7 @@ fedora_packages:
   - ImageMagick
   - inkscape
   - irssi
+  - jhead
   - jq
   - libgnome-keyring
   - nextcloud-client
