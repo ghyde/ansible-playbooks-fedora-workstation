@@ -72,6 +72,8 @@ fedora_packages:
   - f32-backgrounds-extras-gnome
   - f33-backgrounds-gnome
   - f33-backgrounds-extras-gnome
+  - f34-backgrounds-gnome
+  - f34-backgrounds-extras-gnome
 
 fedora_python3_packages:
   - ansible-lint
