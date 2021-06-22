@@ -76,6 +76,7 @@ fedora_packages:
   - f34-backgrounds-extras-gnome
 
 fedora_python3_packages:
+  - ansible-builder
   - ansible-lint
   - black
   - ipython
