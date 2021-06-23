@@ -78,6 +78,7 @@ fedora_packages:
 fedora_python3_packages:
   - ansible-builder
   - ansible-lint
+  - ansible-navigator
   - ansible-runner
   - black
   - ipython
