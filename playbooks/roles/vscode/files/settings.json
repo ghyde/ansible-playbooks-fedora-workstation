@@ -13,13 +13,16 @@
     "files.trimTrailingWhitespace": true,
     "cSpell.userWords": [
         "ansible",
-        "exfiltration",
         "buildah",
         "chdir",
         "chmod",
         "configmap",
+        "exfiltration",
+        "firewalld",
         "haproxy",
+        "hostvars",
         "kubeconfig",
+        "kubectl",
         "kubernetes",
         "lineinfile",
         "oidc",
@@ -29,9 +32,18 @@
         "rpms",
         "selectattr",
         "serviceaccount",
-        "templating"
+        "templating",
+        "tfstate"
     ],
     "extensions.ignoreRecommendations": false,
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Visual Studio Dark"
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "editor.tabSize": 8,
+    "editor.cursorStyle": "line",
+    "editor.insertSpaces": false,
+    "editor.lineNumbers": "on",
+    "editor.wordSeparators": "/\\()\"':,.;<>~!@#$%^&*|+=[]{}`?-",
+    "editor.wordWrap": "off"
 }
